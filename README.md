@@ -7,9 +7,10 @@
 ## Configuring Phishing on Kali Linux
 ### Root access: sudo su
 ### Starting the setoolkit: setoolkit
-### Attack type: Social-Engineering Attacks
-### Attack vector: Web Site Attack Vectors
-### Attack method: Credential Harvester Attack Method
-### Attack method: Site Cloner
+### Attack type: 1) Social-Engineering Attacks
+### Attack vector: 2) Web Site Attack Vectors
+### Attack method: 3) Credential Harvester Attack Method
+
+### Attack method: 2) Site Cloner
 ### Getting the machine's address: ifconfig
 ### URL to clone: http://www.facebook.com
